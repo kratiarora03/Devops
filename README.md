@@ -16,6 +16,7 @@ DevOps, a combination of "development" and "operations," is a set of practices, 
 1. [Continuous Integration (CI)](#continuous-integration-ci)
 2. [Continuous Deployment (CD)](#continuous-deployment-cd)
 3. [Configuration Management](#configuration-management)
+4. [Jenkins](#jenkins)
 
 
 ## Continuous Integration (CI)
@@ -29,6 +30,9 @@ Continuous Deployment is the practice of automatically deploying every code chan
 ## Configuration Management
 
 Configuration Management involves managing and maintaining the configuration of servers, applications, and infrastructure components in a consistent and automated manner. Learn about popular configuration management tools and techniques.
+
+## Jenkins
+Jenkins is an open-source automation server. It is used for automating various aspects of building, testing, and deploying software projects. Jenkins allows developers to automate tasks like building code, running tests, and deploying applications, thereby increasing efficiency and reducing the time and effort required for repetitive tasks.
 
 
 
