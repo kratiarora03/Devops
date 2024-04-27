@@ -12,7 +12,7 @@ DevOps, a combination of "development" and "operations," is a set of practices, 
 - Jenkins
 
 
-## Table of Contents
+## Contents
 
 1. [Continuous Integration (CI)](#continuous-integration-ci)
 2. [Continuous Deployment (CD)](#continuous-deployment-cd)
